@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="33" started-at="2019-12-10T11:20:50Z" finished-at="2019-12-10T11:20:50Z">
+  <suite name="Suite" duration-ms="30" started-at="2019-12-10T12:17:32Z" finished-at="2019-12-10T12:17:32Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="33" started-at="2019-12-10T11:20:50Z" finished-at="2019-12-10T11:20:50Z">
+    <test name="Test" duration-ms="30" started-at="2019-12-10T12:17:32Z" finished-at="2019-12-10T12:17:32Z">
       <class name="SeleniumAutomation.AutomationTest.TestNGDemTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@61832929]" name="setup" is-config="true" duration-ms="0" started-at="2019-12-10T19:20:50Z" finished-at="2019-12-10T19:20:50Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@61832929]" name="setup" is-config="true" duration-ms="0" started-at="2019-12-10T20:17:32Z" finished-at="2019-12-10T20:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testAdd()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@61832929]" name="testAdd" duration-ms="0" started-at="2019-12-10T19:20:50Z" finished-at="2019-12-10T19:20:50Z">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@61832929]" name="testAdd" duration-ms="1" started-at="2019-12-10T20:17:32Z" finished-at="2019-12-10T20:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
       </class> <!-- SeleniumAutomation.AutomationTest.TestNGDemTest -->
       <class name="SeleniumAutomation.AutomationTest.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest@5b275dab]" name="f" duration-ms="12" started-at="2019-12-10T19:20:50Z" finished-at="2019-12-10T19:20:50Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest@5b275dab]" name="f" duration-ms="10" started-at="2019-12-10T20:17:32Z" finished-at="2019-12-10T20:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- SeleniumAutomation.AutomationTest.NewTest -->
       <class name="SeleniumAutomation.AutomationTest.NewTest1">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@29774679]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-12-10T19:20:50Z" finished-at="2019-12-10T19:20:50Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@29774679]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-10T20:17:32Z" finished-at="2019-12-10T20:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@29774679]" name="f" duration-ms="0" started-at="2019-12-10T19:20:50Z" finished-at="2019-12-10T19:20:50Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@29774679]" name="f" duration-ms="1" started-at="2019-12-10T20:17:32Z" finished-at="2019-12-10T20:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@29774679]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-12-10T19:20:50Z" finished-at="2019-12-10T19:20:50Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@29774679]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-12-10T20:17:32Z" finished-at="2019-12-10T20:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

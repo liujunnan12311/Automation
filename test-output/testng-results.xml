@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="91" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+  <suite name="Suite" duration-ms="113" started-at="2019-12-10T22:58:31 PST" finished-at="2019-12-10T22:58:32 PST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="91" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+    <test name="Test" duration-ms="113" started-at="2019-12-10T22:58:31 PST" finished-at="2019-12-10T22:58:32 PST">
       <class name="SeleniumAutomation.AutomationTest.TestNGDemTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@56de5251]" name="setup" is-config="true" duration-ms="1" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@56de5251]" name="setup" is-config="true" duration-ms="2" started-at="2019-12-10T22:58:32 PST" finished-at="2019-12-10T22:58:32 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testAdd()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@56de5251]" name="testAdd" duration-ms="2" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@56de5251]" name="testAdd" duration-ms="2" started-at="2019-12-10T22:58:32 PST" finished-at="2019-12-10T22:58:32 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
       </class> <!-- SeleniumAutomation.AutomationTest.TestNGDemTest -->
       <class name="SeleniumAutomation.AutomationTest.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest@163e4e87]" name="f" duration-ms="18" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest@163e4e87]" name="f" duration-ms="22" started-at="2019-12-10T22:58:32 PST" finished-at="2019-12-10T22:58:32 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- SeleniumAutomation.AutomationTest.NewTest -->
       <class name="SeleniumAutomation.AutomationTest.NewTest1">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@419c5f1a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@419c5f1a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-10T22:58:32 PST" finished-at="2019-12-10T22:58:32 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@419c5f1a]" name="f" duration-ms="2" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@419c5f1a]" name="f" duration-ms="2" started-at="2019-12-10T22:58:32 PST" finished-at="2019-12-10T22:58:32 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@419c5f1a]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-12-10T22:56:12 PST" finished-at="2019-12-10T22:56:12 PST">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest1@419c5f1a]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-12-10T22:58:32 PST" finished-at="2019-12-10T22:58:32 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

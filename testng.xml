@@ -3,11 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-     
+   <!--    <class name="SeleniumAutomation.AutomationTest.NewTest"/>
       <class name="SeleniumAutomation.AutomationTest.AppTest"/>
-      <class name="SeleniumAutomation.AutomationTest.TestNGDemTest"/>
+      <class name="SeleniumAutomation.AutomationTest.TestNGDemTest"/> -->
       <class name="SeleniumAutomation.AutomationTest.DemoSeleniumTest"/>
-      <class name="SeleniumAutomation.AutomationTest.NewTest1"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

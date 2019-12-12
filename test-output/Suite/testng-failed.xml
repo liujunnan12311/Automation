@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="SeleniumAutomation.AutomationTest.DemoSeleniumTest">
+        <methods>
+          <include name="OpenHomePage"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- SeleniumAutomation.AutomationTest.DemoSeleniumTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

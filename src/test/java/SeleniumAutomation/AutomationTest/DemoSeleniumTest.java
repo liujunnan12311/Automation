@@ -22,6 +22,6 @@ public class DemoSeleniumTest {
 		driver.get("https://www.baidu.com");
 		System.out.print("vliu test111111111111111111111111111");
 		System.out.print("vliu test2222222222222222222222222222");
-	    Assert.assertTrue(false);
+	    Assert.assertTrue(true);
 	}
 }

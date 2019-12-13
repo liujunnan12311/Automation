@@ -17,9 +17,11 @@ public class DemoSeleniumTest {
 	public void OpenHomePage()
 	{
 		System.setProperty("webdriver.chrome.driver", "./chromedriver.exe");
+	
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.baidu.com");
-		System.out.print("vliu test");
+		System.out.print("vliu test111111111111111111111111111");
+		System.out.print("vliu test2222222222222222222222222222");
 	    Assert.assertTrue(false);
 	}
 }

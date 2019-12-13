@@ -3,6 +3,7 @@ package SeleniumAutomation.AutomationTest;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -11,7 +12,7 @@ public class DemoSeleniumTest {
 	public void setup()
 	{
 		
-		System.out.print("test demo 2");
+		Reporter.log("我马上要打开浏览器了");
 	}
 	@Test
 	public void OpenHomePage()
@@ -20,8 +21,9 @@ public class DemoSeleniumTest {
 	
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.baidu.com");
-		System.out.print("vliu test111111111111111111111111111");
-		System.out.print("vliu test2222222222222222222222222222");
+		Reporter.log("我马上要关闭浏览器了1111111111111111了");
+		Reporter.log("我马上要关闭浏览器了2222222222222222222");
 	    Assert.assertTrue(true);
+	    Reporter.log("我马上要打开浏览器了");
 	}
 }

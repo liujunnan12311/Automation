@@ -1,37 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[我马上要打开浏览器了]]>
+    </line>
+    <line>
+      <![CDATA[我马上要关闭浏览器了1111111111111111了]]>
+    </line>
+    <line>
+      <![CDATA[我马上要关闭浏览器了2222222222222222222]]>
+    </line>
+    <line>
+      <![CDATA[我马上要打开浏览器了]]>
+    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="4616" started-at="2019-12-13T09:11:52Z" finished-at="2019-12-13T09:11:57Z">
+  <suite name="Suite" duration-ms="4427" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4616" started-at="2019-12-13T09:11:52Z" finished-at="2019-12-13T09:11:57Z">
-      <class name="SeleniumAutomation.AutomationTest.TestNGDemTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@3e6fa38a]" name="setup" is-config="true" duration-ms="12" started-at="2019-12-13T09:11:52Z" finished-at="2019-12-13T09:11:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testAdd()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@3e6fa38a]" name="testAdd" duration-ms="5" started-at="2019-12-13T09:11:53Z" finished-at="2019-12-13T09:11:53Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testAdd -->
-      </class> <!-- SeleniumAutomation.AutomationTest.TestNGDemTest -->
+    <test name="Default test" duration-ms="4427" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:48Z">
       <class name="SeleniumAutomation.AutomationTest.DemoSeleniumTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@66a3ffec]" name="setup" is-config="true" duration-ms="0" started-at="2019-12-13T09:11:53Z" finished-at="2019-12-13T09:11:53Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="setup" is-config="true" duration-ms="12" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:43Z">
           <reporter-output>
+            <line>
+              <![CDATA[我马上要打开浏览器了]]>
+            </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@66a3ffec]" name="OpenHomePage" duration-ms="4568" started-at="2019-12-13T09:11:53Z" finished-at="2019-12-13T09:11:57Z">
+        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="OpenHomePage" duration-ms="4394" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:48Z">
           <reporter-output>
+            <line>
+              <![CDATA[我马上要关闭浏览器了1111111111111111了]]>
+            </line>
+            <line>
+              <![CDATA[我马上要关闭浏览器了2222222222222222222]]>
+            </line>
+            <line>
+              <![CDATA[我马上要打开浏览器了]]>
+            </line>
           </reporter-output>
         </test-method> <!-- OpenHomePage -->
       </class> <!-- SeleniumAutomation.AutomationTest.DemoSeleniumTest -->
-      <class name="SeleniumAutomation.AutomationTest.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest@77caeb3e]" name="f" duration-ms="1" started-at="2019-12-13T09:11:57Z" finished-at="2019-12-13T09:11:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f -->
-      </class> <!-- SeleniumAutomation.AutomationTest.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Suite -->
 </testng-results>

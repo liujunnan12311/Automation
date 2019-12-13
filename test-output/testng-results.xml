@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="4252" started-at="2019-12-12T10:23:21Z" finished-at="2019-12-12T10:23:25Z">
+  <suite name="Suite" duration-ms="5899" started-at="2019-12-13T03:40:59Z" finished-at="2019-12-13T03:41:05Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="4252" started-at="2019-12-12T10:23:21Z" finished-at="2019-12-12T10:23:25Z">
+    <test name="Test" duration-ms="5899" started-at="2019-12-13T03:40:59Z" finished-at="2019-12-13T03:41:05Z">
       <class name="SeleniumAutomation.AutomationTest.DemoSeleniumTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="setup" is-config="true" duration-ms="10" started-at="2019-12-12T10:23:21Z" finished-at="2019-12-12T10:23:21Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="setup" is-config="true" duration-ms="11" started-at="2019-12-13T03:40:59Z" finished-at="2019-12-13T03:40:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="OpenHomePage" duration-ms="4219" started-at="2019-12-12T10:23:21Z" finished-at="2019-12-12T10:23:25Z">
+        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="OpenHomePage" duration-ms="5869" started-at="2019-12-13T03:40:59Z" finished-at="2019-12-13T03:41:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenHomePage -->

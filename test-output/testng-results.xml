@@ -14,19 +14,19 @@
       <![CDATA[我马上要打开浏览器了]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="4427" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:48Z">
+  <suite name="Suite" duration-ms="3920" started-at="2019-12-13T10:32:54Z" finished-at="2019-12-13T10:32:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4427" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:48Z">
+    <test name="Test" duration-ms="3920" started-at="2019-12-13T10:32:54Z" finished-at="2019-12-13T10:32:58Z">
       <class name="SeleniumAutomation.AutomationTest.DemoSeleniumTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="setup" is-config="true" duration-ms="12" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:43Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@6f7fd0e6]" name="setup" is-config="true" duration-ms="10" started-at="2019-12-13T10:32:54Z" finished-at="2019-12-13T10:32:54Z">
           <reporter-output>
             <line>
               <![CDATA[我马上要打开浏览器了]]>
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@27efef64]" name="OpenHomePage" duration-ms="4394" started-at="2019-12-13T10:07:43Z" finished-at="2019-12-13T10:07:48Z">
+        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@6f7fd0e6]" name="OpenHomePage" duration-ms="3887" started-at="2019-12-13T10:32:54Z" finished-at="2019-12-13T10:32:58Z">
           <reporter-output>
             <line>
               <![CDATA[我马上要关闭浏览器了1111111111111111了]]>
@@ -39,7 +39,18 @@
             </line>
           </reporter-output>
         </test-method> <!-- OpenHomePage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@6f7fd0e6]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-12-13T10:32:58Z" finished-at="2019-12-13T10:32:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=OpenHomePage status=SUCCESS method=DemoSeleniumTest.OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@6f7fd0e6] output=我马上要关闭浏览器了1111111111111111了]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
       </class> <!-- SeleniumAutomation.AutomationTest.DemoSeleniumTest -->
-    </test> <!-- Default test -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

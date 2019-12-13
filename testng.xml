@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="SeleniumAutomation.AutomationTest.DemoSeleniumTest"/>
+      <class name="SeleniumAutomation.AutomationTest.TestNGDemTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

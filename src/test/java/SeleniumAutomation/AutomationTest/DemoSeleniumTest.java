@@ -2,6 +2,7 @@ package SeleniumAutomation.AutomationTest;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -18,5 +19,7 @@ public class DemoSeleniumTest {
 		System.setProperty("webdriver.chrome.driver", "./chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.baidu.com");
+		System.out.print("vliu test");
+	    Assert.assertTrue(false);
 	}
 }

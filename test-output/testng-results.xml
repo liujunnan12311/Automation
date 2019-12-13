@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="5304" started-at="2019-12-13T04:39:24Z" finished-at="2019-12-13T04:39:29Z">
+  <suite name="Suite" duration-ms="4616" started-at="2019-12-13T09:11:52Z" finished-at="2019-12-13T09:11:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5304" started-at="2019-12-13T04:39:24Z" finished-at="2019-12-13T04:39:29Z">
+    <test name="Default test" duration-ms="4616" started-at="2019-12-13T09:11:52Z" finished-at="2019-12-13T09:11:57Z">
       <class name="SeleniumAutomation.AutomationTest.TestNGDemTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@3e6fa38a]" name="setup" is-config="true" duration-ms="11" started-at="2019-12-13T04:39:24Z" finished-at="2019-12-13T04:39:24Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@3e6fa38a]" name="setup" is-config="true" duration-ms="12" started-at="2019-12-13T09:11:52Z" finished-at="2019-12-13T09:11:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testAdd()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@3e6fa38a]" name="testAdd" duration-ms="5" started-at="2019-12-13T04:39:24Z" finished-at="2019-12-13T04:39:24Z">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:SeleniumAutomation.AutomationTest.TestNGDemTest@3e6fa38a]" name="testAdd" duration-ms="5" started-at="2019-12-13T09:11:53Z" finished-at="2019-12-13T09:11:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
       </class> <!-- SeleniumAutomation.AutomationTest.TestNGDemTest -->
       <class name="SeleniumAutomation.AutomationTest.DemoSeleniumTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@66a3ffec]" name="setup" is-config="true" duration-ms="1" started-at="2019-12-13T04:39:24Z" finished-at="2019-12-13T04:39:24Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@66a3ffec]" name="setup" is-config="true" duration-ms="0" started-at="2019-12-13T09:11:53Z" finished-at="2019-12-13T09:11:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@66a3ffec]" name="OpenHomePage" duration-ms="5260" started-at="2019-12-13T04:39:24Z" finished-at="2019-12-13T04:39:29Z">
+        <test-method status="PASS" signature="OpenHomePage()[pri:0, instance:SeleniumAutomation.AutomationTest.DemoSeleniumTest@66a3ffec]" name="OpenHomePage" duration-ms="4568" started-at="2019-12-13T09:11:53Z" finished-at="2019-12-13T09:11:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenHomePage -->
       </class> <!-- SeleniumAutomation.AutomationTest.DemoSeleniumTest -->
       <class name="SeleniumAutomation.AutomationTest.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest@77caeb3e]" name="f" duration-ms="1" started-at="2019-12-13T04:39:29Z" finished-at="2019-12-13T04:39:29Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:SeleniumAutomation.AutomationTest.NewTest@77caeb3e]" name="f" duration-ms="1" started-at="2019-12-13T09:11:57Z" finished-at="2019-12-13T09:11:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
